@@ -44,7 +44,6 @@ public class CustomerRepositoryImpl implements CustomerRepository{
         map.put("address", customer.getAddress());
         return template.queryForObject(sql, map, Long.class);
     }
-
     /**
      * Method get customer by id
      * @param id
