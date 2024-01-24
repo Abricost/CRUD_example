@@ -5,6 +5,8 @@ target/
 !**/src/test/**/target/
 javaDoc
 .mvn
+mvnw
+mvnw.cmd
 
 ### STS ###
 .apt_generated

@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 import java.sql.SQLException;
 
 /**
- * Controller contains processing of 4 endpoints
+ * Controller contains processing of 4 endpoints for customer entity
  * @version 1.0
  */
 
