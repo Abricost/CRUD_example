@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS customer2(
+CREATE TABLE IF NOT EXISTS customer(
 	id      BIGSERIAL       PRIMARY KEY,
     name    VARCHAR(250)    NOT NULL,
     phone   VARCHAR(250),

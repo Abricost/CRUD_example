@@ -1,5 +1,6 @@
 package com.example.CustomerSystem.model;
 
+import jakarta.persistence.Entity;
 import lombok.Data;
 
 import java.time.LocalDateTime;
